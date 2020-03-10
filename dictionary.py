@@ -1,0 +1,1 @@
+d = {"Salam":"Hello", "na":"no", "chetori":"how", "khoob":"good", "khodafez":"bye"}
